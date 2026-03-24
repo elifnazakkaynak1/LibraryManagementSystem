@@ -1,0 +1,6 @@
+BOOK,1,A,a,2010,false,null,14,true,elif,2026-03-24
+MAGAZINE,2,B,b,2000,false,null,14
+DVD,3,C,c,2015,0,null
+BOOK,4,D,d,2009,false,null,14,true,elif,2026-03-24
+MAGAZINE,5,E,e,1990,false,null,14
+DVD,6,F,f,2020,0,null
