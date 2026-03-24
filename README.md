@@ -84,4 +84,4 @@ Main → user interaction (menu system)
 
 ## 👩‍💻 Author
 
-Elif Akkaynak
+Elifnaz Akkaynak
